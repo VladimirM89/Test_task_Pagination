@@ -28,7 +28,8 @@
 **Для запуска сервера NEST**
 
 1. `cd srv`
-2. `npm run start:dev` (development mode) или `npm run start` (prodaction mode)
+2. Переименовать **.env.example** в **.env**
+3. `npm run start:dev` (development mode) или `npm run start` (prodaction mode)
 
 - Сервер запустится по адресу `http://localhost:3000`
 - Проверить работу сервера можно с помощью Postman, введя адрес `http://localhost:3000/users` и выбрав метод `GET`.
