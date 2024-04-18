@@ -19,9 +19,9 @@
 
 ## Installation
 
-1. Clone repository: `git clone https://github.com/VladimirM89/Test_task_Pagination.git`
-2. Переключитель на ветку **main** - `git checkout main`
-3. Склонируйте репозиторий `git clone https://github.com/VladimirM89/Battleship_server.git`
+1. Склонируйте репозиторий: `git clone https://github.com/VladimirM89/Test_task_Pagination.git`
+2. Перейдите в папку **Test_task_Pagination**: `cd Test_task_Pagination`
+3. Переключитель на ветку **main** - `git checkout main`
 4. Перейдите в папку **srv** с помощью команды `cd srv`
 5. Введите команду `npm install` и дождитесь окончания установки всех зависимостей
 6. Выйдите из папки **srv** с помощью `cd ..`
